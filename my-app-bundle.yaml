@@ -1,0 +1,5 @@
+bundleIdentifier:
+  group: com.whatever
+  name: my-app-bundle
+  version: 33.2.2
+alias: bla-app
